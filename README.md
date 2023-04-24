@@ -1,3 +1,3 @@
 # manual-trigger-sample-repo
 
-Sample PR01
+Sample PR02
